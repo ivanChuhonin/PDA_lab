@@ -6,3 +6,6 @@ This dataset is perfect for anyone who wants to explore movie data or do a deep 
 1) Сформулируйте 16 различных гипотез относительно содержания данных.
 
 2) Проверьте эти 16 гипотез с помощью языка Python.
+
+Примеры визуализации:
+![2024-05-06_13-09-33](https://github.com/ivanChuhonin/PDA_lab/assets/90215201/ed58a483-258f-4ede-b3c4-9aa79c1bde33)
